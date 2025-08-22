@@ -33,11 +33,6 @@
 
 ---
 
-## 📫 Contacto
-
-- 🌐 Sitio web: [softimpulso.ar](https://softimpulso.ar)
-- 📧 Email: nicocabanillasdev@example.com
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
