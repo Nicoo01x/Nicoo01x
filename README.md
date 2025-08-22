@@ -3,8 +3,6 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Informática (UBP).
-- 💼 Desarollador de [SoftImpulse](https://softimpulso.ar), donde creamos soluciones 100% personalizadas para cada cliente.
 - 🎯 Me especializo en desarrollo web full-stack, automatización de sistemas y desarrollo de software.
 
 ---
