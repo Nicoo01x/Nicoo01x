@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Nico
 
-Desarrolador de **SoftImpulse**, una empresa dedicada al desarrollo de software y páginas web a medida.
----
 
 ## 🚀 Sobre mí
 
