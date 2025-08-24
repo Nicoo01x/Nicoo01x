@@ -44,8 +44,4 @@
 <!-- Lenguajes más usados -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoo01x&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs" width="48%" />
 
-<!-- Trofeos -->
-<img src="https://github-profile-trophy.vercel.app/?username=Nicoo01x&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" width="70%" />
-
-</div>
 
