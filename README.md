@@ -65,6 +65,19 @@
   <img src="https://raw.githubusercontent.com/Nicoo01x/Nicoo01x/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+---
+### 🏅 Logros destacados
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark 🦈 - por hacer pull requests que fueron mergeadas" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO ⚡ - por hacer un commit directo a main sin revisión" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw 🎯 - por responder rápido a una discusión" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire 🤝 - por colaborar en un pull request" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck 🌟 - por recibir muchas estrellas en tus repositorios" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain 🧠 - por responder preguntas de otros usuarios" />
+</p>
+
+---
 
 <!-- Banner at the bottom -->
 <p align="center">
