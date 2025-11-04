@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#00bfff">Nicolás Cabanillas</span></h1>
-<h3 align="center">💻 Software Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">💻 Software Developer | Full-Stack </h3>
 
 ---
 
