@@ -70,6 +70,7 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
        alt="Developer Banner" 
        width="100%" 
-       style="max-height: 200px; object-fit: cover;"/>
+       height="150"
+       style="object-fit: cover; object-position: center;"/>
 </p>
 
