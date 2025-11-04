@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hey 👋, I'm <span style="color:#00bfff">Nicolás Cabanillas</span></h1>
 <h3 align="center">💻 Software Developer | Full-Stack Enthusiast</h3>
 
@@ -10,7 +5,7 @@
 
 ### 🧠 About Me  
 
-- 🎓 Currently pursuing a **Bachelor’s degree in Computer Engineering**.  
+
 - 💬 Ask me about **C#, C++, SQL, Lua, and full-stack web development**.  
 - 🚀 Constantly learning and building projects with precision and creativity.  
 - 🎯 “Write code that not only works — but inspires.”  
@@ -53,12 +48,6 @@
 
 ---
 
-### ✨ Dev Quote  
-
-> *"Write code that not only works — but inspires."*
-
----
-
 ### 📫 Contact Me  
 
 <p align="center">
@@ -74,4 +63,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- Banner at the bottom -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Banner" width="100%"/>
 </p>
