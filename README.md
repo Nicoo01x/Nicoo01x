@@ -5,7 +5,7 @@
 
 ### 🧠 About Me  
 
-
+- 🎓 Currently pursuing a **Bachelor’s degree in Computer Engineering**.  
 - 💬 Ask me about **C#, C++, SQL, Lua, and full-stack web development**.  
 - 🚀 Constantly learning and building projects with precision and creativity.  
 - 🎯 “Write code that not only works — but inspires.”  
@@ -48,6 +48,12 @@
 
 ---
 
+### ✨ Dev Quote  
+
+> *"Write code that not only works — but inspires."*
+
+---
+
 ### 📫 Contact Me  
 
 <p align="center">
@@ -67,10 +73,8 @@
 
 <!-- Banner at the bottom -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-       alt="Developer Banner" 
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+       alt="Animated developer coding banner" 
        width="100%" 
-       height="300"
-       style="object-fit: cover; object-position: center;"/>
+       style="max-height: 250px; object-fit: cover;"/>
 </p>
-
