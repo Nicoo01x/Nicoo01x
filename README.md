@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1792x512.png?text=Professional+Developer+Banner" alt="Developer Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00bfff">Nicolás Cabanillas</span></h1>
@@ -10,7 +10,7 @@
 
 ### 🧠 About Me  
 
-
+- 🎓 Currently pursuing a **Bachelor’s degree in Computer Engineering**.  
 - 💬 Ask me about **C#, C++, SQL, Lua, and full-stack web development**.  
 - 🚀 Constantly learning and building projects with precision and creativity.  
 - 🎯 “Write code that not only works — but inspires.”  
@@ -59,9 +59,12 @@
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Contact Me  
 
 <p align="center">
+  <a href="mailto:nicocabanillas2007@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px"/>
+  </a>
   <a href="https://github.com/Nicoo01x" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48px"/>
   </a>
