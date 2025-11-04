@@ -1,27 +1,27 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/t3hFjL8/banner-github-nico.png" alt="Banner de Nicolás Cabanillas" width="100%"/>
+  <img src="https://via.placeholder.com/1792x512.png?text=Professional+Developer+Banner" alt="Developer Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00bfff">Nicolás Cabanillas</span></h1>
-<h3 align="center">💻 Full Stack Developer | Software Engineer | Tech Enthusiast</h3>
+<h3 align="center">💻 Software Developer | Full-Stack Enthusiast</h3>
 
 ---
 
 ### 🧠 About Me  
 
-- 🎓 Currently advancing my career as a **Software Developer**.  
-- 💡 Passionate about **AI, game scripting, and backend systems**.  
+
 - 💬 Ask me about **C#, C++, SQL, Lua, and full-stack web development**.  
-- 🚀 Constantly learning and building projects with perfection in mind.  
-- 🎯 “Write code that not only works — but inspires.”
+- 🚀 Constantly learning and building projects with precision and creativity.  
+- 🎯 “Write code that not only works — but inspires.”  
+- 📫 Reach me at **nicocabanillas2007@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,cpp,html,css,js,sql,lua,python,git,github,visualstudio,vscode,figma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=csharp,cpp,html,css,js,sql,lua,git,github,visualstudio,vscode,nodejs" />
 </p>
 
 ---
@@ -29,12 +29,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NicolasCabanillas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCabanillas&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nicoo01x&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicoo01x&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCabanillas&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoo01x&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,33 +53,16 @@
 
 ---
 
-### ✨ Random Dev Quote  
+### ✨ Dev Quote  
 
-> *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*  
-> — John Carmack
-
----
-
-### ☕ Support Me  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/nicolascabanillas" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-  </a>
-</p>
+> *"Write code that not only works — but inspires."*
 
 ---
 
-### 📫 Connect with Me  
+### 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicolascabanillas" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
-  </a>
-  <a href="https://instagram.com/nicolascabanillas" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48px"/>
-  </a>
-  <a href="https://github.com/NicolasCabanillas" target="_blank">
+  <a href="https://github.com/Nicoo01x" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48px"/>
   </a>
 </p>
