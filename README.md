@@ -5,7 +5,7 @@
 
 ### 🧠 About Me  
 
-- 🎓 Currently pursuing a **Bachelor’s degree in Computer Engineering**.  
+
 - 💬 Ask me about **C#, C++, SQL, Lua, and full-stack web development**.  
 - 🚀 Constantly learning and building projects with precision and creativity.  
 - 🎯 “Write code that not only works — but inspires.”  
@@ -45,12 +45,6 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
-
----
-
-### ✨ Dev Quote  
-
-> *"Write code that not only works — but inspires."*
 
 ---
 
