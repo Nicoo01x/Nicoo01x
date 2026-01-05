@@ -29,7 +29,7 @@ I'm a **Full Stack Developer** specialized in building **robust, scalable web ap
       <img src="https://nexobyte.com.ar/wp-content/uploads/2025/05/RAYAS-PNG.png" alt="NexoByte" height="60"/>
     </a>
     <br/>
-    <sub><b>Enterprise Solutions</b></sub>
+    <sub><b>Nexobyte</b></sub>
   </td>
   <td align="center" width="50%">
     <a href="https://softimpulse.net" target="_blank">
