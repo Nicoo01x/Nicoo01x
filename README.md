@@ -33,7 +33,7 @@ I'm a **Full Stack Developer** specialized in building **robust, scalable web ap
   </td>
   <td align="center" width="50%">
     <a href="https://softimpulse.net" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_SoftImpulse-1E3A8A?style=for-the-badge&logo=rocket&logoColor=white" alt="SoftImpulse" height="40"/>
+      <img src="./img/logosoftimpulse.png" alt="SoftImpulse" height="60"/>
     </a>
     <br/>
     <sub><b>Custom Software Development</b></sub>
@@ -139,7 +139,7 @@ const developer = {
 - Database Design & Optimization
 - Authentication & Authorization
 - Server-Side Logic
-- Microservices Architecture
+- Full-Stack Backend Solutions
 
   </td>
   <td valign="top" width="33%">
