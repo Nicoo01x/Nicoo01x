@@ -158,21 +158,14 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Activity
+## 🎮 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Nicoo01x/Nicoo01x/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Nicoo01x/Nicoo01x/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
-  <img src="https://github.com/Nicoo01x/Nicoo01x/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
-</div>
-
-### 📈 Commit Activity (Pac-Man Style)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicoo01x/Nicoo01x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicoo01x/Nicoo01x/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicoo01x/Nicoo01x/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
