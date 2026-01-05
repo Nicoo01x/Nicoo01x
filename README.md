@@ -33,10 +33,10 @@ I'm a **Full Stack Developer** specialized in building **robust, scalable web ap
   </td>
   <td align="center" width="50%">
     <a href="https://softimpulse.net" target="_blank">
-      <img src="./img/logosoftimpulse.png" alt="SoftImpulse" height="60"/>
+      <img src="./img/logosoftimpulse.png" alt="SoftImpulse" height="100"/>
     </a>
     <br/>
-    <sub><b>Custom Software Development</b></sub>
+    <sub><b>Soft Impulse</b></sub>
   </td>
 </tr>
 </table>
@@ -208,10 +208,6 @@ const developer = {
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nicoo01x&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
