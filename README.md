@@ -70,7 +70,7 @@ I prioritize code quality, clear documentation, and solutions that scale.
 | [**Arca**](https://github.com/Nicoo01x/Arca) | ARCA/AFIP integration for Node.js backends. Electronic invoicing made simple. | `TypeScript` |
 | [**OmniChannel-SDK**](https://github.com/Nicoo01x/OmniChannel-SDK) | Unified SDK for multi-channel notifications — WhatsApp, Email, SMS. Zero dependencies, type-safe, extensible. | `TypeScript` |
 | [**CuitOnline**](https://github.com/Nicoo01x/CuitOnline-NPMjs) | NPM package to search by CUIT, DNI, CUIL, name, or business name. | `JavaScript` |
-| [**SetupStorm**](https://github.com/Nicoo01x/SetupStorm) | Windows automation system. Clean setup in one click. | `HTML` |
+| [**SetupStorm**](https://github.com/Nicoo01x/SetupStorm) | Windows automation system. Clean setup in one click. | `C#` |
 | [**Enunanota**](https://github.com/Nicoo01x/Enunanota) | Browser-based game — Juego en una Nota (OLGA). | `JavaScript` |
 
 ---
