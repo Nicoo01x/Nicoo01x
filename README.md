@@ -1,20 +1,17 @@
 <div align="center">
 
-<!-- Google-style header -->
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=28&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Software+Engineer;Clean+Code+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 
 # Nicolás Cabanillas
 
-### Software Engineer @ Google
-
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+Google;Full+Stack+%7C+Cloud+%26+Infrastructure;Building+products+used+by+billions;Making+the+world's+information+accessible" alt="Typing SVG" />
+### Full Stack Developer & Software Engineer
 
 <br/>
 
-![Google Blue](https://img.shields.io/badge/Team-Google_Cloud_Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Google Red](https://img.shields.io/badge/Level-L5_Senior_SWE-EA4335?style=flat-square&logo=google&logoColor=white)
-![Google Yellow](https://img.shields.io/badge/Location-Córdoba,_Argentina_(Remote)-FBBC05?style=flat-square&logo=googlemaps&logoColor=black)
-![Google Green](https://img.shields.io/badge/Status-Active-34A853?style=flat-square&logo=statuspage&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full_Stack_Development-4285F4?style=flat-square&logo=code&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Software_Engineer-EA4335?style=flat-square&logo=terminal&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Córdoba,_Argentina-FBBC05?style=flat-square&logo=googlemaps&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Available_for_Projects-34A853?style=flat-square&logo=statuspage&logoColor=white)
 
 ---
 
@@ -26,9 +23,8 @@
 
 ```typescript
 const nico = {
-    employer:       "Google LLC",
-    role:           "Software Engineer",
-    team:           "Cloud & Developer Ecosystem",
+    role:           "Full Stack Developer",
+    companies:      ["Nexobyte", "Soft Impulse"],
     location:       "Córdoba, Argentina 🇦🇷",
     education:      "Computer Science",
     languages:      ["es_AR", "en_US"],
@@ -36,7 +32,7 @@ const nico = {
 };
 ```
 
-Passionate about building **scalable, reliable systems** that serve millions of users. Currently focused on cloud infrastructure, developer tools, and full-stack platform engineering within Google's ecosystem. Previously contributed to open-source tooling and enterprise solutions at **Nexobyte** and **Soft Impulse**.
+Passionate about building **scalable, reliable systems** that deliver real business results. I work across the entire stack — from frontend to backend — integrating design, logic, performance, and continuous maintenance into cohesive solutions. Currently contributing to projects at **[Nexobyte](https://nexobyte.com.ar)** and **[Soft Impulse](https://softimpulse.net)**.
 
 ---
 
@@ -51,22 +47,16 @@ Passionate about building **scalable, reliable systems** that serve millions of 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Frameworks & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-#### Google Internal & Cloud
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![Protocol Buffers](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,14 +70,24 @@ Passionate about building **scalable, reliable systems** that serve millions of 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"> &nbsp; Open Source & Side Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e2/512.gif" width="28"> &nbsp; Currently Working With
 
-> *Projects I maintain outside of Google's internal repos*
+<div align="center">
+
+| <a href="https://nexobyte.com.ar"><img src="https://img.shields.io/badge/Nexobyte-4285F4?style=for-the-badge&logoColor=white"/></a> | <a href="https://softimpulse.net"><img src="https://img.shields.io/badge/Soft_Impulse-34A853?style=for-the-badge&logoColor=white"/></a> |
+|:---:|:---:|
+
+</div>
+
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"> &nbsp; Featured Projects
 
 <table>
 <tr>
@@ -193,6 +193,16 @@ Experimental game built entirely in a single note. Creative coding at its finest
 
 ---
 
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.gif" width="28"> &nbsp; Contribution Activity
+
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Nicoo01x/Nicoo01x/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" width="28"> &nbsp; Connect
 
 <div align="center">
@@ -211,11 +221,13 @@ Experimental game built entirely in a single note. Creative coding at its finest
 
 <br/><br/>
 
-**Built with ❤️ from Córdoba, Argentina | Googler since 2025**
+**Built with ❤️ and ☕ from Córdoba, Argentina**
 
-<img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-EA4335?style=flat&logo=google&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-FBBC05?style=flat&logo=google&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-34A853?style=flat&logo=google&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-4285F4?style=flat" height="4" width="80"/>
+<img src="https://img.shields.io/badge/-EA4335?style=flat" height="4" width="28"/>
+<img src="https://img.shields.io/badge/-FBBC05?style=flat" height="4" width="40"/>
+<img src="https://img.shields.io/badge/-4285F4?style=flat" height="4" width="28"/>
+<img src="https://img.shields.io/badge/-34A853?style=flat" height="4" width="60"/>
+<img src="https://img.shields.io/badge/-EA4335?style=flat" height="4" width="40"/>
 
 </div>
