@@ -26,7 +26,7 @@ const nico = {
     role:           "Full Stack Developer",
     companies:      ["Nexobyte", "Soft Impulse"],
     location:       "Córdoba, Argentina 🇦🇷",
-    education:      "Computer Science",
+    education:      "Computer engineering",
     languages:      ["es_AR", "en_US"],
     dailyRoutine:   ["☕ Coffee", "💻 Code", "🔍 Code Review", "🔁 Repeat"],
 };
