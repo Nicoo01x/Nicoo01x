@@ -98,7 +98,7 @@ Passionate about building **scalable, reliable systems** that deliver real busin
 Pure peer-to-peer, zero servers. Built in C# with a focus on privacy-first architecture and low-latency transfers.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-⭐ 5
+⭐ 26
 
 </td>
 <td width="50%">
