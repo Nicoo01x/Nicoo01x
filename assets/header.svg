@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Nicolás Cabanillas — Full Stack Developer</title>
+  <desc id="desc">Web apps, desktop tools and developer SDKs. Córdoba, Argentina. A midnight blue banner with a connected node illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101827" />
+      <stop offset="1" stop-color="#111F38" />
+    </linearGradient>
+    <linearGradient id="accent" x1="66" y1="0" x2="1134" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC" />
+      <stop offset="0.55" stop-color="#818CF8" />
+      <stop offset="1" stop-color="#263651" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#34435E" opacity="0.55" />
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="22" fill="url(#background)" stroke="#2A3953" />
+  <rect x="756" y="32" width="410" height="310" fill="url(#grid)" />
+  <rect x="66" y="0" width="1068" height="3" rx="1.5" fill="url(#accent)" />
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="66" y="76" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="3" fill="#93C5FD">NICOO01X / FULL STACK DEVELOPER</text>
+    <text x="62" y="148" font-size="57" font-weight="700" letter-spacing="-2" fill="#F5F7FC">Nicolás Cabanillas</text>
+    <text x="66" y="201" font-size="25" fill="#C2CDDF">Web apps, desktop tools</text>
+    <text x="66" y="235" font-size="25" fill="#C2CDDF">&amp; developer SDKs.</text>
+    <line x1="66" y1="274" x2="701" y2="274" stroke="#2C3A52" />
+    <circle cx="72" cy="312" r="5" fill="#93C5FD" />
+    <text x="89" y="317" font-size="16" fill="#9EADC5">Córdoba, Argentina</text>
+    <text x="701" y="317" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#9EADC5">TS / C# / .NET</text>
+  </g>
+  <g stroke="#526C99" stroke-width="1.5">
+    <path d="M960 169V102H845" />
+    <path d="M990 200H1072V291H966" />
+    <path d="M930 200H840V280" />
+    <path d="M960 230V291" />
+  </g>
+  <rect x="928" y="168" width="64" height="64" rx="18" fill="#1A2F50" stroke="#93C5FD" stroke-width="1.5" />
+  <path d="M951 190L941 200L951 210M969 190L979 200L969 210M963 186L957 214" stroke="#DBEAFE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="794" y="78" width="100" height="48" rx="10" fill="#152239" stroke="#405779" />
+  <rect x="788" y="280" width="104" height="48" rx="10" fill="#152239" stroke="#405779" />
+  <rect x="1018" y="88" width="108" height="48" rx="10" fill="#152239" stroke="#405779" />
+  <path d="M1072 136V200" stroke="#526C99" stroke-width="1.5" />
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15" text-anchor="middle" fill="#B8D4FC">
+    <text x="844" y="107">web</text>
+    <text x="840" y="309">desktop</text>
+    <text x="1072" y="117">sdk</text>
+  </g>
+  <circle cx="960" cy="291" r="5" fill="#A5B4FC" />
+  <circle cx="1072" cy="200" r="4" fill="#7DD3FC" />
+</svg>
